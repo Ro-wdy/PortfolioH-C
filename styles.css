@@ -53,6 +53,7 @@ section {
 #home {
     background: url('../Images/bimage.jpg') no-repeat center center/cover;
     position: relative;
+    color: #fff; /* White text for contrast */
 }
 
 #home::before {
@@ -575,7 +576,7 @@ section {
 
 /* Footer */
 footer {
-    background-color: #2870bd;
+    background-color: #2b2d30;
     color: white;
     padding: 20px;
     margin-top: 4rem;
@@ -589,7 +590,7 @@ footer {
 }
 
 .footer-section h3 {
-    color: #2563eb;
+    color: #fff;
     margin-bottom: 1rem;
     font-size: 1.3rem;
 }
@@ -621,7 +622,7 @@ footer {
 }
 
 .contact-info i {
-    color: #2563eb;
+    color: #fff;
     width: 16px;
 }
 
