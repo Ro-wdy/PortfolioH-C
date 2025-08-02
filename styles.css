@@ -571,7 +571,7 @@ section {
 
 .social-links a:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(37, 99, 235, 0.3);
+    background: #fff;
 }
 
 /* Footer */
